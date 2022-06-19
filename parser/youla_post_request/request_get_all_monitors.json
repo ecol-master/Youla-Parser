@@ -1,0 +1,31 @@
+{
+  "operationName": "catalogProductsBoard",
+  "variables": {
+    "sort": "DEFAULT",
+    "attributes": [
+      { "slug": "price", "value": null, "from": null, "to": 200000 },
+      {
+        "slug": "monitory_diagonal_ekrana",
+        "value": ["9290"],
+        "from": null,
+        "to": null
+      },
+      { "slug": "categories", "value": ["monitory"], "from": null, "to": null }
+    ],
+    "datePublished": null,
+    "location": {
+      "latitude": null,
+      "longitude": null,
+      "city": null,
+      "distanceMax": null
+    },
+    "search": "мониторы",
+    "cursor": ""
+  },
+  "extensions": {
+    "persistedQuery": {
+      "version": 1,
+      "sha256Hash": "6e7275a709ca5eb1df17abfb9d5d68212ad910dd711d55446ed6fa59557e2602"
+    }
+  }
+}
